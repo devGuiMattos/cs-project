@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UibITMtTJkc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fagne\\OneDrive\\Documents\\Engine\\EngineDeFisica\\EngineDeFisica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fagne\\.nuget\\packages\\raylib-cs\\8.0.0\\raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
